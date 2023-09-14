@@ -1,0 +1,22 @@
+# ninja log v5
+1	62	1694641109091294368	CMakeFiles/imgui_min.dir/imgui/backend/imgui_impl_opengl3.cpp.o	5599db765e9bec60
+1	451	1694641109479293385	CMakeFiles/imgui_min.dir/imgui/imgui_tables.cpp.o	9997be38036985bf
+1	685	1694640789504166689	CMakeFiles/imgui_min.dir/imgui/imgui_widgets.o	2caa06ed895552a
+0	8	1694728094861344328	build.ninja	8bbb2753dac4666d
+1	68	1694641109095294357	CMakeFiles/imgui_min.dir/imgui/backend/imgui_impl_glfw.cpp.o	c1f89a734f3e141a
+1	584	1694640789404166987	CMakeFiles/imgui_min.dir/imgui/imgui_draw.o	e6f31fd8a7154d1
+1	386	1694727658990885018	CMakeFiles/imgui_min.dir/main.cpp.o	29624d5efbbadb57
+0	972	1694641109999292069	CMakeFiles/imgui_min.dir/imgui/imgui.cpp.o	c4dbc81eb20a81ff
+1	72	1694640788892168509	CMakeFiles/imgui_min.dir/imgui/backend/imgui_impl_glfw.o	b4c826b1b84eba0e
+386	449	1694727659054884827	imgui_min	78dcd8942ecdcbcd
+1	389	1694641109415293547	CMakeFiles/imgui_min.dir/imgui/imgui_demo.cpp.o	a67067328cffe1b8
+1	619	1694641109647292960	CMakeFiles/imgui_min.dir/imgui/imgui_draw.cpp.o	13a7a78cafd95ac
+1	877	1694640789696166119	CMakeFiles/imgui_min.dir/imgui/imgui.o	9adeae104a219d14
+1	64	1694640788884168533	CMakeFiles/imgui_min.dir/imgui/backend/imgui_impl_opengl3.o	9e20dbb54cfd87e8
+1	396	1694640789216167546	CMakeFiles/imgui_min.dir/imgui/imgui_tables.o	6b689a73d420f707
+1	748	1694641109775292636	CMakeFiles/imgui_min.dir/imgui/imgui_widgets.cpp.o	5d21614ece38e10f
+1	344	1694640789164167700	CMakeFiles/imgui_min.dir/imgui/imgui_demo.o	e7c533f1997c5e5a
+1	199	1694728559342802877	CMakeFiles/imgui_min.dir/glfw_manager.cpp.o	888c44b7f5131a8f
+1	284	1694728559426802481	CMakeFiles/imgui_min.dir/main.cpp.o	29624d5efbbadb57
+1	379	1694728559522802030	CMakeFiles/imgui_min.dir/test_application.cpp.o	7e3324ae5abc6906
+379	440	1694728559582801748	imgui_min	ae2d5c68a7235d80
